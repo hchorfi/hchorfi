@@ -1,8 +1,5 @@
-[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&login=hchorfi)](https://github.com/mohouyizme/1337-readme)
-
-
 <h1 align="center">Hi 👋, I'm Hamza CHORFI - AKA - DevZa</h1>
-<h3 align="center">A passionate Software Developer, 1337 IT Architect Student.</h3>
+<h3 align="center">An ops Eng @ YouCan.shop, A passionate Software Eng, 1337 IT Architect Student.</h3>
 
 - 🌱 I’m currently learning **Devops, DevSecOps, Backend, Problem solving**
 
